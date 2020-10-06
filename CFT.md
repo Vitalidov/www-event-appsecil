@@ -28,21 +28,6 @@ However, preference will be given to submissions which:
 
 ### Thanks for your submissions, CFT has now closed!
 
-
-**PREMIUM TIERS**
-
-| Benefit | Silver | Gold | Platinum Limited |
-| ------------------- |:----------------------:|:---------------:|:--------------:|
-|Logo on Website|   280x100|    375x150|    500x200|
-|Logo on background|    No| Yes|    Large|
-|Logo on Chapter page|  No| Yes|    Yes|
-|Logo in Website header|    No| No| Yes|
-|Vendor blurb on Sponsors page| No| 50 words|   100 words|
-|Link to sponsor chat|  Yes|    Yes|    Yes|
-|Link to sponsor video/zoom|    No| Yes|    Yes|
-|Vendor passport raffle|    No| Yes|    Yes|        
-|Price:|    $2,000|     $3,000|     $4,500 |
-
 ### Timeline 
 
 CFP closes: September 19, 2020  

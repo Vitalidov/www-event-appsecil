@@ -20,17 +20,72 @@ For more details on the available sponsorship options please see [Conference Spo
 For more details and to confirm your sponsorship, please contact [Ori Troyna](mailto:ori.troyna@owasp.org).  
 
 
-| Benefit | Silver | Gold | Platinum Limited |
-| ------------------- |:----------------------:|:---------------:|:--------------:|
-|Logo on Website|   280x100|    375x150|    500x200|
-|Logo on background|    No| Yes|    Large|
-|Logo on Chapter page|  No| Yes|    Yes|
-|Logo in Website header|    No| No| Yes|
-|Vendor blurb on Sponsors page| No| 50 words|   100 words|
-|Link to sponsor chat|  Yes|    Yes|    Yes|
-|Link to sponsor video/zoom|    No| Yes|    Yes|
-|Vendor passport raffle|    No| Yes|    Yes|        
-|Price:|    $2,000|     $3,000|     $4,500 |
+<table>
+<thead>
+<tr>
+<th>Benefit</th>
+<th style="text-align:center">Silver</th>
+<th style="text-align:center">Gold</th>
+<th style="text-align:center">Platinum Limited</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Logo on Website</td>
+<td style="text-align:center">280x100</td>
+<td style="text-align:center">375x150</td>
+<td style="text-align:center">500x200</td>
+</tr>
+<tr>
+<td>Logo on background</td>
+<td style="text-align:center">No</td>
+<td style="text-align:center">Yes</td>
+<td style="text-align:center">Large</td>
+</tr>
+<tr>
+<td>Logo on Chapter page</td>
+<td style="text-align:center">No</td>
+<td style="text-align:center">Yes</td>
+<td style="text-align:center">Yes</td>
+</tr>
+<tr>
+<td>Logo in Website header</td>
+<td style="text-align:center">No</td>
+<td style="text-align:center">No</td>
+<td style="text-align:center">Yes</td>
+</tr>
+<tr>
+<td>Vendor blurb on Sponsors page</td>
+<td style="text-align:center">No</td>
+<td style="text-align:center">50 words</td>
+<td style="text-align:center">100 words</td>
+</tr>
+<tr>
+<td>Link to sponsor chat</td>
+<td style="text-align:center">Yes</td>
+<td style="text-align:center">Yes</td>
+<td style="text-align:center">Yes</td>
+</tr>
+<tr>
+<td>Link to sponsor video/zoom</td>
+<td style="text-align:center">No</td>
+<td style="text-align:center">Yes</td>
+<td style="text-align:center">Yes</td>
+</tr>
+<tr>
+<td>Vendor passport raffle</td>
+<td style="text-align:center">No</td>
+<td style="text-align:center">Yes</td>
+<td style="text-align:center">Yes</td>
+</tr>
+<tr>
+<td>Price:</td>
+<td style="text-align:center">$2,000</td>
+<td style="text-align:center">$3,000</td>
+<td style="text-align:center">$4,500</td>
+</tr>
+</tbody>
+</table>
 
 
 

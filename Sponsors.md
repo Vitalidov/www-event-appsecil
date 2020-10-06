@@ -17,26 +17,7 @@ We are now offering several tiers of premium sponsorship, and various a la carte
 There is also a cost-effective “Community Supporter” option for non-profits, government offices, small startups, and anyone else that wishes to support the community (Community Supporter level does not get a booth at the conference).  
 For more details on the available sponsorship options please see [Conference Sponsorships]({{ site.url }}/www-event-stdoff/assets/files/Digital_AppSec_Israel_2020_Sponsorships.pdf).  
 
-For more details and to confirm your sponsorship, please contact [Ori Troyna](mailto:ori.troyna@owasp.org).   
-
---
-
-**PREMIUM TIERS**
-
-
-| Benefit | Silver | Gold | Platinum Limited |
-| ------------------- |:----------------------:|:---------------:|:--------------:|
-|Logo on Website|   280x100|    375x150|    500x200|
-|Logo on background|    No| Yes|    Large|
-|Logo on Chapter page|  No| Yes|    Yes|
-|Logo in Website header|    No| No| Yes|
-|Vendor blurb on Sponsors page| No| 50 words|   100 words|
-|Link to sponsor chat|  Yes|    Yes|    Yes|
-|Link to sponsor video/zoom|    No| Yes|    Yes|
-|Vendor passport raffle|    No| Yes|    Yes|        
-|Price:|    $2,000|     $3,000|     $4,500 |
-
---
+For more details and to confirm your sponsorship, please contact [Ori Troyna](mailto:ori.troyna@owasp.org).  
 
 **Sponsorship options:**
 

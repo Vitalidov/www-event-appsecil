@@ -19,7 +19,7 @@ For more details on the available sponsorship options please see [Conference Spo
 
 For more details and to confirm your sponsorship, please contact [Ori Troyna](mailto:ori.troyna@owasp.org).   
 
-
+---
 
 **PREMIUM TIERS**
 
@@ -36,6 +36,7 @@ For more details and to confirm your sponsorship, please contact [Ori Troyna](ma
 |Vendor passport raffle|    No| Yes|    Yes|        
 |Price:|    $2,000|     $3,000|     $4,500 |
 
+---
 
 **Sponsorship options:**
 

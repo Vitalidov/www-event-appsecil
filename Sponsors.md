@@ -23,6 +23,7 @@ For more details and to confirm your sponsorship, please contact [Ori Troyna](ma
 
 **PREMIUM TIERS**
 
+
 | Benefit | Silver | Gold | Platinum Limited |
 | ------------------- |:----------------------:|:---------------:|:--------------:|
 |Logo on Website|   280x100|    375x150|    500x200|
@@ -34,7 +35,6 @@ For more details and to confirm your sponsorship, please contact [Ori Troyna](ma
 |Link to sponsor video/zoom|    No| Yes|    Yes|
 |Vendor passport raffle|    No| Yes|    Yes|        
 |Price:|    $2,000|     $3,000|     $4,500 |
-
 
 
 **Sponsorship options:**

@@ -34,6 +34,7 @@ For more details and to confirm your sponsorship, please contact [Ori Troyna](ma
 |Price:|    $2,000|     $3,000|     $4,500 |
 
 
+
 **Sponsorship options:**
 
 * Capture the Flag

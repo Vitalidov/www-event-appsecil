@@ -19,7 +19,6 @@ For more details on the available sponsorship options please see [Conference Spo
 
 For more details and to confirm your sponsorship, please contact [Ori Troyna](mailto:ori.troyna@owasp.org).  
 
-**PREMIUM TIERS**
 
 | Benefit | Silver | Gold | Platinum Limited |
 | ------------------- |:----------------------:|:---------------:|:--------------:|

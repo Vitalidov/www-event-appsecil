@@ -36,8 +36,8 @@ For more details and to confirm your sponsorship, please contact [Ori Troyna](ma
 |Price:|    $2,000|     $3,000|     $4,500 |
 
 
-**Sponsorship options:**
 
+**Sponsorship options:**
 
 * Capture the Flag
 Sponsor the popular CtF competition, which will take place during the conference. As the official CtF Host you will have your logo on the CtF page. We will recognize you when we announce the winners over social media, and can optionally include your own prize. 

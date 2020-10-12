@@ -12,12 +12,14 @@ However, it is absolutely required to register ahead of time.
 (Register to training)[https://www.meetup.com/OWASP-Israel/events/273224114/]
 
 ***Please note that you must register for each day you wish to attend!***  
+
 As space is limited, please do not register if you are not planning to attend, and don't register yourself multiple times.
 
 ---
 
 ### ***Registration Types*** 
-**You must register individually for each event you want to attend.**   
+**You must register individually for each event you want to attend.** 
+
 (Please do not register unless you plan to attend).  
  
 

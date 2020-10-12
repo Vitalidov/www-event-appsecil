@@ -7,9 +7,9 @@
 Attending AppSec Israel is completely free, for both the [Conference](Agenda) and the Training.   
 However, it is absolutely required to register ahead of time.   
 
-(Register to conference)[https://www.meetup.com/OWASP-Israel/events/273224114/]
+[Register to conference](https://www.meetup.com/OWASP-Israel/events/273224114/)
 
-(Register to training)[https://www.meetup.com/OWASP-Israel/events/273224114/]
+[Register to training](https://www.meetup.com/OWASP-Israel/events/273224114/)
 
 ***Please note that you must register for each day you wish to attend!***  
 

@@ -13,7 +13,7 @@ However, it is absolutely required to register ahead of time.
 
 ***Please note that you must register for each day you wish to attend!***  
 
-Please don't register yourself multiple times!
+***Please do not register yourself multiple times!***
 
 ---
 

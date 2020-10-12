@@ -13,7 +13,7 @@ However, it is absolutely required to register ahead of time.
 
 ***Please note that you must register for each day you wish to attend!***  
 
-As space is limited, please do not register if you are not planning to attend, and don't register yourself multiple times.
+Please don't register yourself multiple times!
 
 ---
 

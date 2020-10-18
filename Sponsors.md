@@ -87,6 +87,7 @@ For more details and to confirm your sponsorship, please contact [Ori Troyna](ma
 </tbody>
 </table>
 
+{% if site.data.sponsors.gold %}
 #### Gold Sponsors 
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.gold %}

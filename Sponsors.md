@@ -20,7 +20,7 @@ For more details on the available sponsorship options please see [Conference Spo
 For more details and to confirm your sponsorship, please contact [Ori Troyna](mailto:ori.troyna@owasp.org).  
 
 {% if site.data.sponsors.gold %}
-#### Gold Sponsors 
+### Gold Sponsors 
 <div class="sponsor-tier">
   {% for sponsor in site.data.sponsors.gold %}
 	  <span class="sponsor gold-sponsor">

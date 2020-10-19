@@ -5,3 +5,7 @@ gold:
   url  : https://www.checkmarx.com/ 
   image: Checkmarx.png
 
+ctf:
+- name : AWS
+  url  : https://aws.amazon.com/
+  image: aws.png

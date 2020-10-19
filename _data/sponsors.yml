@@ -1,13 +1,11 @@
 
 gold:
-
 - name : Checkmarx
   url  : https://www.checkmarx.com/ 
-  image: Checkmarx.png
-  
- - name : Amdocs
+  image: Checkmarx.png  
+- name : Amdocs
   url  : https://www.amdocs.com/ 
-  image: Amdocs.png 
+  image: amdocs.png 
   
 
 ctf:
